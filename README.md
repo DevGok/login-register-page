@@ -1,2 +1,1 @@
-# login-register-page
-Animated Login and Register page
+# This is an fully animated login and register page. 
